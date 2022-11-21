@@ -20,7 +20,7 @@ Nesse projeto foi desenvolvido uma landing page para o primeiro desafio da forma
 ***
 ## 📷 Imagens do projeto: 
 <p align ="center">
- <img src ="" width =""/>
+ <img src ="https://github.com/DiegoMaiaSantos/landing-page-formacao-css/blob/dev/assets/img/landing-page-img-principal.png?raw=true" width =""/>
  </p>
 
 ***
